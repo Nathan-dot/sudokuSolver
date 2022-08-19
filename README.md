@@ -1,6 +1,6 @@
 # sudokuSolver
 
-Created two different algorithms for solving a sudoku puzzle, and it is capable of solving 3 x 3 hards (a.k.a takes me 30 minutes to solve manually. I have not tested anything harder).
+Created two different algorithms for solving a sudoku puzzle, and it is capable of solving 3 x 3 hards (a.k.a takes me 30 minutes to solve manually. I have not tested anything harder)
 1. Naïve/Brute Force Method - Recursive backtracking
 2. Application of the DLX Algorithm 
 
