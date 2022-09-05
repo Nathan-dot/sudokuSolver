@@ -8,3 +8,4 @@ References:
 
 https://stackoverflow.com/questions/1518335/the-dancing-links-algorithm-an-explanation-that-is-less-explanatory-but-more
 https://www.ocf.berkeley.edu/~jchu/publicportal/sudoku/sudoku.paper.html
+https://medium.com/javarevisited/building-a-sudoku-solver-in-java-with-dancing-links-180274b0b6c1
