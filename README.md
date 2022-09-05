@@ -6,6 +6,7 @@ Implemented two different algorithms for solving a sudoku puzzle, and it is capa
 
 References:
 
-https://stackoverflow.com/questions/1518335/the-dancing-links-algorithm-an-explanation-that-is-less-explanatory-but-more
-https://www.ocf.berkeley.edu/~jchu/publicportal/sudoku/sudoku.paper.html
-https://medium.com/javarevisited/building-a-sudoku-solver-in-java-with-dancing-links-180274b0b6c1
+1. https://stackoverflow.com/questions/1518335/the-dancing-links-algorithm-an-explanation-that-is-less-explanatory-but-more
+2. https://www.ocf.berkeley.edu/~jchu/publicportal/sudoku/sudoku.paper.html
+3. https://medium.com/javarevisited/building-a-sudoku-solver-in-java-with-dancing-links-180274b0b6c1
+4. https://garethrees.org/2007/06/10/zendoku-generation/#section-4
